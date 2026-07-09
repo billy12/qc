@@ -101,6 +101,19 @@ The 30 seconds after a family finishes their age-group egg hunt is when they dec
 
 ---
 
+## Candidate Background
+
+See `PROFILE.md` for full resume details. Key points relevant to this interview:
+
+- **8 years** as Clubhouse Coordinator at Boys & Girls Clubs — events, budgets, hiring, partnerships
+- Runs **signature events serving 500+ community members**
+- Oversees full **department budget** (annual planning + monthly)
+- Recruits, hires, trains, and supervises **part-time staff and volunteers**
+- Tech skills: **Canva, Adobe Suite, KidTrax, video editing, 3D printing**
+- **No municipal parks & rec title** on resume — frame it as: nonprofit program coordination is the same skill set, different setting
+
+---
+
 ## Files in This Folder
 
 | File | Description |
