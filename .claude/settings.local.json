@@ -6,7 +6,13 @@
       "Bash(python build_qa_deck.py)",
       "Bash(git add *)",
       "Bash(git commit *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "PowerShell(git *)",
+      "PowerShell(git -C \"C:\\\\Projects\\\\QC\" show stash@{0}:SpringIntoQC_Presentation.pptx > \"C:\\\\Projects\\\\QC\\\\SpringIntoQC_Presentation.pptx\" 2>&1; echo \"done\")",
+      "Bash(python *)",
+      "Skill(de-slop)",
+      "WebFetch(domain:www.schnepffarms.com)",
+      "WebFetch(domain:queencreekolivemill.com)"
     ]
   }
 }

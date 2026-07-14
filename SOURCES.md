@@ -16,6 +16,17 @@ links found to close the gaps flagged in the previous pass and the homework list
 | Town Vision & Strategic Plan | https://www.queencreekaz.gov/government/town-council/vision-mission-values-strategic-plan | Town vision quote, FY26 "Quality of Lifestyle" priority (Slide 2) |
 | Frontier Family Park — official page | https://www.queencreekaz.gov/FrontierFamilyPark | Park size (85 acres), amenities, layout inputs for Pillar 1 (see below) |
 
+## Prospective Partner Businesses
+
+| Source | Link | Used For | Verified Claim |
+|--------|------|----------|----------------|
+| Queen Creek Olive Mill — About page | https://www.queencreekolivemill.com/pages/queen-creek-estate | Strategy 1 / Slide 7 business identity | "Arizona's Only Working Olive Mill" — exact heading on their about page |
+| Schnepf Farms — Venue page | https://schnepffarms.com/venue/schnepf-farms-2/ | Strategy 1 / Slide 7 business identity | "the largest peach grower in the State" — their own self-description; also "Arizona's largest Agritainment Farm" |
+
+**Note:** The ANNOTATED script previously cited Schnepf Farms as "Arizona's largest organic peach grower" -- their site does not use "organic" as part of this superlative. Corrected to their exact self-description: "the largest peach grower in the State." They do note growing peaches with no pesticides for 50+ years, but that is separate from the size claim.
+
+---
+
 ## News & Media Coverage
 
 | Source | Link | Used For |

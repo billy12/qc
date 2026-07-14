@@ -1,53 +1,56 @@
 # Spring Into QC — Presentation Script (Basic / Read-Through)
 
-A straight speaking script, slide by slide, timed to land around 10 minutes at a
+A straight speaking script, slide by slide, timed to land around 9–10 minutes at a
 natural pace. This is a study draft, not a script to memorize word-for-word — read it
 aloud a few times, then start swapping in your own phrasing. The goal is to sound like
 you're explaining an idea you believe in, not reciting slides.
 
-**Total target: ~10:00.** Time budget per slide is noted — if you run long in
-practice, trim there first.
+**Total target: ~9:15.** Time budget per slide is noted — if you run long in practice,
+trim there first.
 
 ---
 
 ## Slide 1 — Title (0:15)
 
 > Good morning. Thank you for the opportunity to be here today. My recommendation is
-> for Spring Into QC — Queen Creek's signature spring event — and it's built around
-> one idea: enhancing engagement beyond the egg hunt.
+> for Spring Into QC — and it's organized around one idea: connecting the event
+> families already love.
 
 *[Advance]*
 
 ---
 
-## Slide 2 — Who We're Serving (0:35)
+## Slide 2 — Who We're Serving (0:40)
 
 > Before I get into the recommendation, I want to ground this in who we're actually
-> serving. Queen Creek is a town of about 95,000 residents, growing at 6.2% a year —
-> one of the fastest-growing towns in Arizona. Median household income is just under
-> $142,000, average household size is around 3.4 — this is a family-oriented
-> community — and 90% of residents own their home, which tells you people are here to
-> stay, not just passing through. The Town's own vision — "convenience of the city,
-> comfort of the country" — plus this year's strategic priority of Quality of
-> Lifestyle both point directly at community events like this one.
+> serving — and why these three numbers matter to this proposal specifically.
+>
+> Queen Creek is growing at 6.2% a year, one of the fastest rates in Arizona. Most
+> families here are still forming their Queen Creek traditions. This event can be one
+> of them. Median household income of $141,978 means a generic raffle prize won't hold
+> this audience — the incentive has to match the community. And 90% homeownership says
+> residents are invested here, not passing through. They'll come back next year if this
+> year earns it.
+>
+> The Town's own vision — "convenience of the city, comfort of the country" — means
+> this event should feel like both.
 
 *[Advance]*
 
 ---
 
-## Slide 3 — Current State & The Gap (1:00)
+## Slide 3 — Spring Into QC Today (1:00)
 
-> So let's look at what Spring Into QC actually offers today. It's a strong event —
-> free age-group egg hunts, the Fast & Furriest animal races with five heats and
-> bracket rounds, a Play Zone with inflatables, a dedicated Tot Spot for the youngest
-> kids, the Great EggScape story walk, Color Blast, and vendors throughout. Over 3,500
-> people attend. That's a lot of families in one place.
+> So what does Spring Into QC actually offer? It's a strong event — free egg hunts
+> staggered by age group from 9:30 to 12:30, the Fast & Furriest animal races with
+> five heats, a Play Zone with inflatables, a dedicated Tot Spot for the youngest kids,
+> the Great EggScape story walk, Color Blast, and vendors throughout. Over 3,500
+> people attend.
 >
-> But here's the gap: families come for one reason — the egg hunt. Once their age
-> group's hunt wraps up, the visit feels complete in their mind. There's no clear
-> signal telling them what to do next. So they leave — before they ever get to the
-> races, the vendors, or anything else. Every one of these elements is strong on its
-> own. They're just not connected into one experience.
+> But here's the gap: families come for one reason — the egg hunt. The moment their
+> group's hunt ends, the visit feels complete. Nothing in that moment tells them what
+> to do next. So they leave — before they see the vendors, the races, or anything else.
+> Every activity here is strong on its own. None of them are connected.
 
 *[Advance]*
 
@@ -55,167 +58,148 @@ practice, trim there first.
 
 ## Slide 4 — What the Research Revealed (1:15)
 
-> When I dug into why that's happening, three things stood out.
+> Three findings. Same root cause.
 >
-> First, the raffle loop is broken. Attendees already earn raffle tickets by picking
-> the winning animal in each race. Five heats run all morning, so tickets pile up —
-> but there's no announced prize drawing tied to them anywhere in the event
-> materials. Right now those tickets are basically a trinket, not an incentive.
+> First: the raffle isn't backed by a real partnership. Correct race picks already earn
+> a ticket — but no prize, drawing, or local business partner appears anywhere in event
+> materials. That's not an oversight. A plain ticket isn't worth advertising on its
+> own, especially in a $142,000-median-income community. The opportunity isn't a bigger
+> raffle — it's turning that ticket into a way to experience the businesses that already
+> define Queen Creek.
 >
-> Second, activities run in silos. The egg hunt, the races, the Play Zone, the
-> EggScape, Color Blast — they all exist as separate stops with no narrative
-> connecting them. When a family finishes one thing, there's no clear next step, so
-> the default is to leave.
+> Second: the connections are missing, not the content. The hunts, races, Play Zone,
+> EggScape, and Color Blast are each strong. The fields being spaced apart is correct
+> for crowd flow — that's not the problem. What's missing is a shared identity and
+> staff who actively point families to what's next.
 >
-> Third — and this is the one that matters most — the post-hunt moment is unclaimed.
-> The hunts are actually well-staggered by age group already, so this isn't one big
-> exodus at noon. It's smaller waves of families leaving right after their own group
-> finishes. That 30-second window right after a family's hunt ends is when they decide
-> whether to stay or go — and right now, nothing is happening in that window.
+> Third: the post-hunt moment is unclaimed. Hunts are already well-staggered by age
+> group. But nothing happens in the moment right after a family finishes their hunt.
+> No photo, no signal for what's next — so the default is to walk to the car.
 >
-> All three of these point to the same conclusion: the event elements are strong. The
-> connections between them are missing.
+> All three point to the same fix: the elements are already strong. They just aren't
+> talking to each other.
 
 *[Advance]*
 
 ---
 
-## Slide 5 — Research Foundation (0:50)
+## Slide 5 — What This Is Built On (0:45)
 
-> Before I get into the recommendation, I want to be transparent about what's
-> confirmed versus what I'm assuming. On the confirmed side — the event basics, the
-> hunt schedule, the race format, attendance north of 3,500, vendor fees, the Town's
-> own demographic data, and — importantly — the Town already runs resident surveys
-> using QR codes and online links. That's a real precedent I'll come back to.
+> Before the recommendation, I want to be transparent about what's confirmed and what
+> I'm assuming. On the confirmed side: event basics, the hunt schedule, the race
+> format, 3,500+ attendees, vendor fee structure, and the Town's own demographic data.
 >
-> On the assumed side — I don't have hard exit data on why families leave early, and I
-> don't have a confirmed baseline for dwell time. I'm flagging that honestly rather
-> than treating it as settled fact. One quick note: we don't yet know the specific
-> reasons families leave early, and beyond today's proposal, a natural next step for
-> the Town would be a formal feedback mechanism — using that same QR survey method
-> they already have in place. That's a future idea, not part of what I'm recommending
-> today.
+> On the assumption side: no raffle prize or drawing is publicized anywhere — I'm
+> treating that as a real gap, not an oversight by the team that built this event.
+> On-site activity flow isn't publicly documented, so this proposal works from what's
+> marketed. And family departure timing isn't tracked — the post-hunt moment comes from
+> the Town's own problem statement, not measured data.
+>
+> We don't yet know the specific reasons families leave early. A formalized feedback
+> step — building on the QR-code survey method the Town already uses — is a natural
+> next step beyond this proposal.
 
 *[Advance]*
 
 ---
 
-## Slide 6 — The Recommendation: Overview (0:35)
+## Slide 6 — The Recommendation (0:35)
 
-> So here's the recommendation. Two connected pieces, both low-cost, both
-> high-impact. Pillar one: redesign the journey — restructure the site so families
-> move through one guided path instead of wandering between disconnected stops.
-> Pillar two: gamify retention — expand the raffle mechanic that already exists into a
-> layered system that gives families a real reason to stay. Pillar one gets families
-> moving through the whole site. Pillar two gives them a reason to keep moving.
+> Three strategies, built on what already works. Spring Into QC doesn't need more
+> programming. It needs a reason worth winning, one moment claimed right after the
+> hunt, and staff who turn that momentum into exploring everything else.
+>
+> Strategy 1: Strengthen Local Partnerships — turn the raffle into something worth
+> entering, backed by real Queen Creek businesses and Silver Eggs that grow the ticket
+> pool inside the existing hunt. Strategy 2: Claim the Post-Hunt Moment — make
+> families realize the Silver Egg in their bucket is a live ticket to a prize that's
+> genuinely Queen Creek's own. Strategy 3: Strengthen Connectivity Through Staff —
+> turn that excitement into momentum along the walkway that already connects every zone.
+>
+> Strategy 1 gives them something worth winning. Strategy 2 gives them a reason to
+> stay for it. Strategy 3 turns that into a reason to explore.
 
 *[Advance]*
 
 ---
 
-## Slide 7 — Pillar 1: Event Layout & Participant Journey (1:20)
+## Slide 7 — Strategy 1: Strengthen Local Partnerships (1:30)
 
-> Let's start with the layout. Right now the site is a series of disconnected stops.
-> My recommendation is to restructure it as a guided loop. Two controlled entrances —
-> Entrance A and B — for safety and headcount accountability. From there, families
-> start with the Great Egg Walk, a story-walk that sets the tone. That flows into the
-> vendor row. Then into the central egg hunt, which becomes the physical anchor of the
-> whole site — everything else radiates out from it. From the hunt, families flow
-> directly into the animal races. And on the way back out, the periphery attractions —
-> Play Zone, Tot Spot, Color Blast — sit along that return route, not off to the side
-> where they're easy to skip.
+> The raffle mechanic already exists. Strategy 1 is backing it with real partnerships.
 >
-> Why this works: it directly solves the silo problem from a minute ago. Families
-> physically pass every vendor and every attraction before they reach the exit. This
-> isn't new attractions — it's the same event, resequenced. And it sets up pillar two,
-> because a path only works if people have a reason to walk the whole thing, not just
-> look at it.
+> Five local businesses — Queen Creek Olive Mill, Schnepf Farms, Sossaman Farms,
+> Pecan Lake Entertainment, and San Tan Flat — each contribute a prize annually. Not
+> one generic giveaway. A set of real Queen Creek experiences: an Olive Mill family
+> tasting, a Schnepf Farms day pass, a Sossaman milling and baking experience, a
+> Pecan Lake activity package, a San Tan Flat family dinner. Announced at 9 AM open,
+> drawn at 12:15 PM, framed as real local partnerships — not fine print. Zero cost to
+> the Town. Every partner becomes part of the town's signature spring event.
+>
+> And to grow the ticket pool without adding a new card or checklist: Silver Eggs.
+> Hidden alongside the existing Golden Ticket during each age-group hunt — a natural
+> fit, not a new mechanic bolted on. Each Silver Egg found redeems for a bonus raffle
+> ticket. Families earn more tickets through something they're already doing. And it
+> sets up Strategy 2.
 
 *[Advance]*
 
 ---
 
-## Slide 8 — Pillar 2: Gamification & Retention Incentives (1:20)
+## Slide 8 — Strategy 2: Claim the Post-Hunt Moment (1:15)
 
-> That's where pillar two comes in. The raffle ticket mechanic already exists —
-> families earn tickets by picking race winners. I'm proposing four layers on top of
-> that.
+> Finding 3 said the post-hunt moment is unclaimed. The answer isn't a new attraction.
+> It's making families realize what they might already be holding.
 >
-> One: a Grand Prize Drawing, announced right at the start of the event — not a
-> surprise at noon — so families know from minute one it's worth staying for. Sourced
-> through local business sponsorship, so it's zero cost to the Town.
+> A family doesn't know if they have a live raffle ticket until they check their bucket
+> for a Silver Egg. When they find one, the 12:15 PM drawing isn't a generic giveaway
+> — it's an Olive Mill family tasting, a Schnepf Farms day pass, a San Tan Flat dinner.
+> That's what turns "time to go" into "let's see if we won."
 >
-> Two: a combined punch and bingo card, handed out at the entrance. Punches for
-> hitting the periphery attractions, bingo squares for interacting with vendors and
-> Town partners. A completed card earns a bonus raffle ticket.
->
-> Three: hidden golden eggs scattered across the whole venue, separate from the timed
-> hunts — findable all morning, each one worth bonus tickets. This pulls families into
-> every corner of the site, not just the center.
->
-> Four: the race mechanic gets a bracket-champion bonus tied into the same prize pool,
-> so all three ticket sources feed one storyline instead of feeling separate.
->
-> Together, these four layers turn one raffle mechanic into an event-wide reason to
-> explore, participate, and stay through the drawing.
+> Families don't need a new reason to stay. They need to realize they might already
+> have one. The Silver Egg in their bucket is a live ticket to a prize that's genuinely
+> Queen Creek's own. No new attraction, no new infrastructure — just naming what the
+> egg hunt, the Silver Egg, and the local partnerships already add up to.
 
 *[Advance]*
 
 ---
 
-## Slide 9 — Operational Plan (1:20)
+## Slide 9 — Strategy 3: Strengthen Connectivity Through Staff (1:15)
 
-> Here's how this gets executed. Eight weeks out, we lock the prize format, recruit a
-> sponsor, finalize the site layout, and design the punch and bingo cards. Five weeks
-> out, we shift into promotion — launching the event push across social and the
-> newsletter, announcing which vendors are participating and what they're offering,
-> and starting to tease the Grand Prize without giving it away, to build
-> anticipation. We also highlight the new layout and activities in that messaging, and
-> ask vendors to cross-promote on their own channels.
+> Strategy 2 gives families a reason to want to stay. Strategy 3 is staff turning that
+> want into families actually seeing the rest of the site.
 >
-> Two weeks out, we finalize the prize package, print the cards and golden egg
-> tokens, and confirm staffing. Day of, hunt staff are briefed on the handoff
-> protocol, entrance staff hand out cards and hide the golden eggs before gates open,
-> and the emcee runs the schedule and drawing announcements. And post-event, we run a
-> vendor satisfaction survey, debrief as a staff, and document the raffle and card
-> submission rates so we know if it actually worked.
+> The spine — the vendor row and main walkway — already connects every zone. The fix
+> is what happens along it. Staff at each zone's exit give a five-second handoff built
+> around the ticket: "You've got a shot at a prize — have you checked out the races
+> yet?" The egg hunt field exit is the priority — highest volume, most time-critical,
+> right when families are holding their Silver Egg excitement from Strategy 2. From
+> there: the animal race arena, then the Play Pods and vendor activations.
+>
+> This uses the staff and walkway already on site. No new infrastructure. The fields
+> stay physically spaced for crowd flow, exactly as they should. The fix is what
+> connects them — not the fences.
 
 *[Advance]*
 
 ---
 
-## Slide 10 — Staffing & Budget (0:45)
+## Slide 10 — Final Recommendation (0:45)
 
-> On staffing — this is a redeployment model, not new hires. Existing hunt staff
-> transition into handoff roles, entrance staff — already there for check-in — hand
-> out the cards, and two staff spend about thirty minutes hiding golden eggs before
-> gates open. The emcee folds the new announcements into their existing script.
+> Three strategies, all built on what's already here.
 >
-> On budget — signage, printed cards, and golden egg tokens run somewhere between
-> about $270 and just under $1,000, depending on print quantities. The prize package
-> is sponsor-funded, so that's zero cost to the Town. And there's a real revenue
-> opportunity here too — sponsor branding across the prize, signage, and cards is
-> worth $500 to $2,000, which means this enhancement could be cost-neutral or better.
-
-*[Advance]*
+> Strengthen Local Partnerships turns the raffle into something worth entering — real
+> Queen Creek businesses in the prize pool, more ticket paths through Silver Eggs hidden
+> inside the existing hunt. Claim the Post-Hunt Moment turns the seconds after the
+> hunt into anticipation, not an exit — a family with a Silver Egg already has a reason
+> to stick around for the drawing. Strengthen Connectivity Through Staff turns that
+> anticipation into momentum along the walkway that already connects every zone.
+>
+> No new infrastructure required. An operational plan and detailed budget are available
+> as companion documents for all three strategies. Happy to take questions.
 
 ---
 
-## Slide 11 — Final Recommendation (0:45)
-
-> So to bring it together: two connected enhancements for next year's Spring Into
-> QC. Redesign the journey, so the site guides families through everything it has to
-> offer. And gamify retention, so they have a real reason to follow that path all the
-> way through. Looking further ahead, a formal feedback loop is a natural next step
-> for future seasons — but that's tomorrow's project, not today's.
->
-> We'll track success through dwell time, card completion and raffle submission
-> rates, vendor satisfaction, and sponsor revenue generated. Thank you — happy to take
-> questions.
-
----
-
-**Total spoken word count is roughly 1,450 words.** At a natural pace (~140–150
-words/min) that lands close to 10 minutes, but pace varies person to person — do a
-timed run-through and trim wherever you're naturally running long before you commit
-to a final read.
+**Total spoken word count is roughly 1,300 words.** At a natural pace (~140 words/min)
+that lands around 9:15, leaving comfortable room before a 10-minute limit. Do a timed
+run-through and trim wherever you're naturally running long.
